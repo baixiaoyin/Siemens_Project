@@ -1,0 +1,5 @@
+BK1: change the print from 2.7 to 3.6
+BK2: Line 23 change 'rb' to 'r'
+
+
+fix the time self-update problem
